@@ -7,6 +7,9 @@ SARIMAX
 Linear Regression with L2-regularization
 
 - time series
-#jupyter notebook
+- jupyter notebook
+- pandas
+- sklearn
+- statsmodels
 
 
