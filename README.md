@@ -12,6 +12,12 @@ Linear Regression with L2-regularization
 - sklearn
 - statsmodels
 
-### 2.
+### 2. Outliers_Detection
+
+Outliers Detection algorithm comparison
+
+- z-statistics
+- robust z-statistics
+- IQR method
 
 
