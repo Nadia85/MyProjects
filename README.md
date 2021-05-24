@@ -4,15 +4,12 @@ Data Analysis Projects
 ### 1. Covid-19 Spain Analysis & Forecast
 SARIMAX
 
-Linear Regression with L2-regularization
-
+- linear regression with regularization
+- ARIMA 
 - time series
-- jupyter notebook
-- pandas
-- sklearn
-- statsmodels
 
-### 2. Outliers_Detection
+
+### 2. Outliers Detection
 
 Outliers Detection algorithm comparison
 
@@ -21,3 +18,17 @@ Outliers Detection algorithm comparison
 - IQR method
 
 
+### 3. Text Data Normalization
+
+- cosine distance
+- Tableau visualization
+
+
+
+_____________________________________________________________________________________
+
+- jupyter notebook
+- pandas
+- sklearn
+- statsmodels
+- tableau
