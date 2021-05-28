@@ -2,11 +2,10 @@
 Data Analysis Projects
 
 ### 1. Covid-19 Spain Analysis & Forecast
-SARIMAX
 
-- linear regression with regularization
-- ARIMA 
 - time series
+- linear regression with regularization
+- SARIMAX 
 
 
 ### 2. Outliers Detection
@@ -24,6 +23,9 @@ Outliers Detection algorithm comparison
 - Tableau visualization
 
 
+### 4. Algorithm Evaluation
+
+- evaluation of the image recognition algorithm
 
 _____________________________________________________________________________________
 
