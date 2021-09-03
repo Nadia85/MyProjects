@@ -27,10 +27,16 @@ Outliers Detection algorithm comparison
 
 - evaluation of the image recognition algorithm
 
+
+### 5. House Prices Competition
+
+- advanced regression techniques
+- classic Machine Learning vs. Deep Learning
+
 _____________________________________________________________________________________
 
-- jupyter notebook
 - pandas
 - sklearn
 - statsmodels
+- keras
 - tableau
