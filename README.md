@@ -1,14 +1,28 @@
-# MyProjects
-Data Analysis Projects
+# MyProjects/notebooks
 
-### 1. Covid-19 Spain Analysis & Forecast
+Data Analysis amnd ML Projects
+
+### Algorithm Evaluation
+
+- evaluation of the image recognition algorithm
+
+
+### Covid-19 Spain Analysis & Forecast
 
 - time series
 - linear regression with regularization
 - SARIMAX 
 
 
-### 2. Outliers Detection
+### House Prices Prediction
+
+- kaggle competition
+- advanced regression techniques
+- classic Machine Learning vs. Deep Learning
+
+
+
+### Outliers Detection
 
 Outliers Detection algorithm comparison
 
@@ -17,26 +31,18 @@ Outliers Detection algorithm comparison
 - IQR method
 
 
-### 3. Text Data Normalization
+
+### Text Data Normalization
 
 - cosine distance
 - Tableau visualization
 
 
-### 4. Algorithm Evaluation
 
-- evaluation of the image recognition algorithm
+### Store Sales Time Series Forecasting
 
-
-### 5. House Prices Competition
-
-- advanced regression techniques
-- classic Machine Learning vs. Deep Learning
-
+- kaggle competition
+- time series
+- hybrid models
 _____________________________________________________________________________________
 
-- pandas
-- sklearn
-- statsmodels
-- keras
-- tableau
