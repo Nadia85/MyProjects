@@ -1,6 +1,6 @@
 # MyProjects/notebooks
 
-Data Analysis amnd ML Projects
+Data Analysis and ML Projects
 
 ### Algorithm Evaluation
 
